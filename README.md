@@ -1,4 +1,5 @@
-![0274207612d515f49012c87803a9e631](https://user-images.githubusercontent.com/74291505/187241542-76a890ee-9d7a-4a25-8087-8cc1cd5ad532.gif)
+![0274207612d515f49012c87803a9e631](https://user-images.githubusercontent.com/74291505/187242786-8d25ce10-3c17-4141-bf35-2fe3efb41f5e.gif)
+
 
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
 <h3 align="center">A passionate frontend developer</h3>
