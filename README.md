@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1zE3w2ghUQ8OQG_RhpJ8FVd2KP63YiCqO/view?usp=sharing)](https://dg9647.github.io/dgportfolio/)
+![0274207612d515f49012c87803a9e631](https://user-images.githubusercontent.com/74291505/187241542-76a890ee-9d7a-4a25-8087-8cc1cd5ad532.gif)
+
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
